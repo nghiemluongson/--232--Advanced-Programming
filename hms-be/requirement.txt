@@ -1,0 +1,6 @@
+dotenv
+express
+ejs
+cors
+firebase
+firebase-admin
